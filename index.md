@@ -16,12 +16,12 @@
 ### 用語
 - DiVincenzoの基準
 - ブラインド量子計算
-- McEliece cryptosystem
 - spin-1/2
 
 ## 暗号
 
 ### 耐量子計算機暗号
+- [McEliece暗号系](pages/McElice_cryptosystem)
 - 隠れ部分群問題
 
 ### 量子暗号
